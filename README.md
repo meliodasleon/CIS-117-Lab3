@@ -1,5 +1,4 @@
 # CIS-117 Lab3
-# Write a description of your module here
-# Leonard Ferreira
-If you worked with a partner, Group# and the names of the person who collaborated with you
-Write here a brief description about how the collaboration worked 
+# Python script that reads country names and regions from a CSV file and writes them to separate CSV files by region.
+# Leonard Ferreira and Sean Coffin
+# Leonard Ferreira wrote the reading and the exception handling parts of the script. Sean Coffin wrote the documentation and the writing portion of the script.
